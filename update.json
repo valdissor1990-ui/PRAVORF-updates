@@ -1,7 +1,7 @@
 {
-  "versionName": "0.1.0-test.ota.1",
-  "versionCode": 200001,
-  "apkUrl": "https://github.com/valdissor1990-ui/PRAVORF-updates/releases/download/test-v0.1.0-ota.1/pravorf-release.apk",
-  "sha256": "94bab00cddae0b73806b69820ebd39ef3aa350d346b17355fca8932d902dac24",
-  "releaseNotesUrl": "https://github.com/valdissor1990-ui/PRAVORF-updates/releases/tag/test-v0.1.0-ota.1"
+  "versionName": "0.1.0",
+  "versionCode": 200010,
+  "apkUrl": "https://github.com/valdissor1990-ui/PRAVORF-updates/releases/download/v0.1.0/pravorf-release.apk",
+  "sha256": "03df5fd3f46fc694e03c55c0255f2b323dc37f7a1dcaf66e4d8dc6e002785c4a",
+  "releaseNotesUrl": "https://github.com/valdissor1990-ui/PRAVORF-updates/releases/tag/v0.1.0"
 }
